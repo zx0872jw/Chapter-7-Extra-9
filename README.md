@@ -1,5 +1,4 @@
 # Chapter-7-Extra-9
-# Write the two print statements on line 12 and 13... #1.. print("Number of vowels are:", vowels) #2.. print("Number of consonants:", consonants)
 string = input("Enter a string: ")
 vowels = 0
 consonants = 0
