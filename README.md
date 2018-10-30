@@ -9,3 +9,5 @@ for i in range(len(string)):
     elif not string[i] == ' ':
         consonants += 1
 
+print("Number of vowels are:",vowels)
+print("Number of consonants:",consonants)
